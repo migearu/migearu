@@ -3,6 +3,11 @@ My name is Miguel Aruelo, I'm currently a high school junior, and I do a few thi
 I'm interested in computer science, especially stuff like algorithms, cryptography, etc.<br>
 Other than that, my other interests are electronics, music production, chemistry, mathematics, etc.
 
+# ⚡ My Skillset
+I am proficient in Python, C# (Unity), and JavaScript.
+I also know C, C++, Rust, Lua, Java, and TypeScript to varying skill levels.
+I can work with embedded systems, specifically the Arduino, and STM32 platforms.
+
 # 🔭 I’m currently working on ...
 - An RPG bullet hell game in Unreal Engine 5.
 - An implementation of Elliptic Curve cryptography, using the Diffie-Hellman Key Exchange in C++
@@ -19,7 +24,7 @@ Other than that, my other interests are electronics, music production, chemistry
 - Unreal Engine 5, along with C++
 - Elliptic Curves and Finite Fields
 
-# ⚡ Achievements ...
+# 🏆 Achievements ...
 - 60/75 in the 2023 Waterloo Canadian Computing Competition (Junior Division)
 - 61/75 in the 2024 Waterloo Canadian Computing Competition (Junior Division)
 
