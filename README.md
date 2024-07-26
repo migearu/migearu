@@ -7,6 +7,7 @@ Other than that, my other interests are electronics, music production, chemistry
 - I am proficient in Python, C# (Unity), and JavaScript.
 - I also know C, C++, Rust, Lua, Java, and TypeScript to varying skill levels.
 - I can work with embedded systems, specifically the Arduino, and STM32 platforms.
+- Currently, I'm learning Haskell.
 
 # 🔭 I’m currently working on ...
 - An RPG bullet hell game in Unreal Engine 5.
