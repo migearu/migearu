@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Miguel Aruelo, I'm currently a high school junior, and I do a few things in my life.<br>
+My name is Miguel Aruelo, I'm currently a high school senior, and I do a few things in my life.<br>
 I'm interested in computer science, especially stuff like algorithms, cryptography, etc.<br>
 Other than that, my other interests are electronics, music production, chemistry, mathematics, etc.
 
