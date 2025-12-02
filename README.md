@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Miguel Aruelo, I'm currently a high school senior, and I do a few things in my life.<br>
+My name is Miguel Aruelo, I'm currently an Honours Mathematics student at the University of Waterloo, and I do a few things in my life.<br>
 I'm interested in computer science, especially stuff like algorithms, cryptography, etc.<br>
 Other than that, my other interests are electronics, music production, chemistry, mathematics, etc.
 
@@ -10,24 +10,21 @@ Other than that, my other interests are electronics, music production, chemistry
 - Currently, I'm learning Haskell.
 
 # 🔭 I’m currently working on ...
-- An RPG bullet hell game in Unreal Engine 5.
-- An implementation of Elliptic Curve cryptography, using the Diffie-Hellman Key Exchange in C++
+- Nothing major yet!
 
 # 🤔 What I've finished ...
 - A 3D renderer built entirely using the CMU graphics library
-  - I had to learn and implement a lot of things from computer graphics, especially linear algebra.
+  - I had to learn and implement a lot of things from computer graphics, especially some concepts from linear algebra.
 - Quick and dirty implementation of the RSA algorithm in Python
 - A multiband distortion plugin made in Rust with NIH-Plug
   - Here, I gained a great deal of understanding when it came to digital signal processing, and the ideas behind many of the plugins I use in my music.
   - Also helped a great deal with my sense of algorithms.
+- A from-scratch implementation of neural networks in C++, and Racket.
 
 # 🌱 I’m currently learning ...
-- Unreal Engine 5, along with C++
-- Elliptic Curves and Finite Fields
+- Math! A lot of it!
 
 # 🏆 Achievements ...
-- 60/75 in the 2023 Waterloo Canadian Computing Competition (Junior Division)
-- 61/75 in the 2024 Waterloo Canadian Computing Competition (Junior Division)
 
 # 😄 Outside of programming, I ...
 - Make music under an alias: https://www.youtube.com/@sevenlivesmusic
