@@ -1,11 +1,11 @@
 # Hi there 👋
 My name is Miguel Aruelo, I'm currently an Honours Mathematics student at the University of Waterloo, and I do a few things in my life.<br>
-I'm interested in computer science, especially stuff like algorithms, cryptography, etc.<br>
-Other than that, my other interests are electronics, music production, chemistry, mathematics, etc.
+I'm interested in pure mathematics, although I do also have a love for more applied mathematics too.<br>
+Other than that, my other interests are electronics, music production, chemistry, computer science, etc.
 
 # ⚡ My Skillset
-- I am proficient in Python, C# (Unity), and JavaScript.
-- I also know C, C++, Rust, Lua, Java, and TypeScript to varying skill levels.
+- I am proficient in Python, C# (Unity), JavaScript/TypeScript, C++.
+- I also know C, Rust, Lua, and Java to varying skill levels.
 - I can work with embedded systems, specifically the Arduino, and STM32 platforms.
 - Currently, I'm learning Haskell.
 
@@ -19,7 +19,7 @@ Other than that, my other interests are electronics, music production, chemistry
 - A multiband distortion plugin made in Rust with NIH-Plug
   - Here, I gained a great deal of understanding when it came to digital signal processing, and the ideas behind many of the plugins I use in my music.
   - Also helped a great deal with my sense of algorithms.
-- A from-scratch implementation of neural networks in C++, and Racket.
+- A from-scratch implementation of a basic feed-forward neural network in C++ and Racket.
 
 # 🌱 I’m currently learning ...
 - Math! A lot of it!
